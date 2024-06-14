@@ -48,7 +48,5 @@ Proyek ini dilisensikan di bawah lisensi MIT. Silakan lihat file [LICENSE](LICEN
 Untuk pertanyaan atau informasi lebih lanjut, Anda dapat menghubungi kami melalui:
 
 - **Email:** info@ceritadesain.com
-- **Twitter:** [@CeritaDesain](https://twitter.com/CeritaDesain)
-- **Instagram:** [@CeritaDesain](https://instagram.com/CeritaDesain)
 
 Terima kasih telah bergabung dengan CeritaDesain! Bersama-sama, mari kita ciptakan masa depan UI/UX yang lebih baik.
