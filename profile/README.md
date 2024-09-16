@@ -1,5 +1,6 @@
 # CeritaDesain
 
+![download (1)](https://github.com/user-attachments/assets/b2f1cd78-1b80-4327-aa8a-382733a1e1f2)
 
 
 
