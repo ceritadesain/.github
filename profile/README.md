@@ -2,8 +2,8 @@
 
 ![download (1)](https://github.com/user-attachments/assets/b2f1cd78-1b80-4327-aa8a-382733a1e1f2)
 
-
-
+Berikut ini adalah link dari website ceritadesain:
+[ceritadesain](https://ceritadesain.com/)
 
 Selamat datang di **CeritaDesain**, rumah kreativitas untuk para pecinta UI/UX! CeritaDesain adalah sebuah forum di mana para desainer dapat berbagi inspirasi, ide, dan pengalaman dalam dunia desain antarmuka pengguna (UI) dan pengalaman pengguna (UX).
 
