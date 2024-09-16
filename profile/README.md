@@ -1,6 +1,6 @@
 # CeritaDesain
 
-![screencapture-freecodecamp-responsive-web-design-github-io-learn-html-forms-by-building-a-registration-form-2024-09-15-12_54_20](https://github.com/user-attachments/assets/c9b17c68-e15b-46f3-bfb0-335077e8680b)
+
 
 
 
